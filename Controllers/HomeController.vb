@@ -1,4 +1,7 @@
 ﻿Public Class HomeController
+
+    'Edit from Justin Ng
+
     Inherits System.Web.Mvc.Controller
 
     Function Index() As ActionResult
