@@ -1,6 +1,6 @@
 ﻿Public Class HomeController
 
-    'Edit from Justin Ng
+    'Edit from Justin
 
     Inherits System.Web.Mvc.Controller
 
