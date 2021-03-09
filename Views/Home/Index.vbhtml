@@ -2,30 +2,86 @@
     ViewData("Title") = "Home Page"
 End Code
 
-<div class="jumbotron">
-    <h1>ASP.NET</h1>
-    <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
-    <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
-</div>
 
-<div class="row">
-    <div class="col-md-4">
-        <h2>Getting started</h2>
-        <p>
-            ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
-            enables a clean separation of concerns and gives you full control over markup
-            for enjoyable, agile development.
-        </p>
-        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
-    </div>
-    <div class="col-md-4">
-        <h2>Get more libraries</h2>
-        <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
-        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
-    </div>
-    <div class="col-md-4">
-        <h2>Web Hosting</h2>
-        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
-        <p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
+
+<!-- About Us Area Start -->
+<div class="about-us-area section-space--ptb_120">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="about-us-content_6 text-center">
+                    <h2>CIS 4290 Senior Project</h2>
+                    <p>
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Molestias aut, repellat ipsum facere voluptate dicta obcaecati deserunt nobis suscipit eaque?
+                    </p>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
+<!-- About Us Area End -->
+
+<!-- Product Banner Start -->
+<div class="hero-box-area">
+    <div class="container">
+        <div class="row row--5">
+            <div class="col-lg-3 col-md-3">
+                <div class="hero-product-image mt-10">
+                    <a href="shop-left-sidebar.html">
+                        <img src="assets/images/banners/h-g-1.jpg" class="img-fluid" alt="Banner images">
+                    </a>
+                    <div class="product-banner-title">
+                        <h4><a href="shop-left-sidebar.html">Wooden deco</a></h4>
+                        <h6>Deco collection</h6>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6">
+                <div class="hero-product-image mt-10">
+                    <a href="shop-left-sidebar.html">
+                        <img src="assets/images/banners/h-g-2.jpg" class="img-fluid" alt="Banner images">
+                    </a>
+                    <div class="product-banner-title">
+                        <h4><a href="shop-left-sidebar.html">Helen chair</a></h4>
+                        <h6>Deco collection</h6>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3">
+                <div class="hero-product-image mt-10">
+                    <a href="shop-left-sidebar.html">
+                        <img src="assets/images/banners/h-g-3.jpg" class="img-fluid" alt="Banner images">
+                    </a>
+                    <div class="product-banner-title">
+                        <h4><a href="shop-left-sidebar.html">Vase of flowers</a></h4>
+                        <h6>Deco collection</h6>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6">
+                <div class="hero-product-image mt-10">
+                    <a href="shop-left-sidebar.html">
+                        <img src="assets/images/banners/h-g-4.jpg" class="img-fluid" alt="Banner images">
+                    </a>
+                    <div class="product-banner-title">
+                        <h4><a href="shop-left-sidebar.html">Wood eggs</a></h4>
+                        <h6>Deco collection</h6>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6">
+                <div class="hero-product-image mt-10">
+                    <a href="shop-left-sidebar.html">
+                        <img src="assets/images/banners/h-g-5.jpg" class="img-fluid" alt="Banner images">
+                    </a>
+                    <div class="product-banner-title">
+                        <h4><a href="shop-left-sidebar.html">TV shelves Helen</a></h4>
+                        <h6>Table collection</h6>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- Product Banner End-->
